@@ -8,7 +8,7 @@ Click on each topic to go to the specific section.
     <th><strong>Description</strong></th>
   </tr>
   <tr>
-    <td>🌍 <a href="/readme.md#aws-regions">1. AWS Regions</a></td>
+    <td>🌍 <a href="/aws-global-infrastructure.md#aws-regions">1. AWS Regions</a></td>
     <td>
       <p>- A Region is a geographic area (e.g., us-east-1, eu-west-1).</p>
       <p>- Each region has multiple Availability Zones (AZs).</p>
@@ -17,7 +17,7 @@ Click on each topic to go to the specific section.
     </td>
   </tr>
   <tr>
-    <td>🏢 <a href="/readme.md#availability-zones-azs">2. Availability Zones (AZs)</a></td>
+    <td>🏢 <a href="/aws-global-infrastructure.md#availability-zones-azs">2. Availability Zones (AZs)</a></td>
     <td>
       <p>- AZs are isolated data centers within a region.</p>
       <p>- Typically 2–6 AZs per region.</p>
@@ -26,7 +26,7 @@ Click on each topic to go to the specific section.
     </td>
   </tr>
   <tr>
-    <td>🌐 <a href="/readme.md#edge-locations">3. Edge Locations</a></td>
+    <td>🌐 <a href="/aws-global-infrastructure.md#edge-locations">3. Edge Locations</a></td>
     <td>
       <p>- Used by services like CloudFront and Route 53.</p>
       <p>- Help deliver content with low latency globally.</p>
@@ -34,7 +34,7 @@ Click on each topic to go to the specific section.
     </td>
   </tr>
   <tr>
-    <td>🔧 <a href="/readme.md#services-and-availability">4. Services and Availability</a></td>
+    <td>🔧 <a href="/aws-global-infrastructure.md#services-and-availability">4. Services and Availability</a></td>
     <td>
       <p>- Some services are global (e.g., IAM, Route 53, CloudFront).</p>
       <p>- Most are regional (e.g., EC2, RDS, Lambda).</p>
