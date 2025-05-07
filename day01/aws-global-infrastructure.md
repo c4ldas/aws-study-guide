@@ -8,7 +8,7 @@ Click on each topic to go to the specific section.
     <th><strong>Description</strong></th>
   </tr>
   <tr>
-    <td>🌍 <a href="aws-global-infrastructure.md#aws-regions">1. AWS Regions</a></td>
+    <td>🌍 <a href="aws-global-infrastructure.md#--aws-regions">1. AWS Regions</a></td>
     <td>
       <p>- A Region is a geographic area (e.g., us-east-1, eu-west-1).</p>
       <p>- Each region has multiple Availability Zones (AZs).</p>
