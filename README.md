@@ -19,6 +19,18 @@ Each day has practical exercises and scenarios designed to reinforce learning. T
 ### 3. **AWS Cheatsheet**
 A personal cheatsheet with quick CLI commands and AWS service summaries for everyday reference.
 
+## 📅 Study Plan Breakdown
+- Day 1 – Core AWS + IAM + CLI
+- Day 2 – EC2 Mastery
+- Day 3 – S3 + CloudWatch
+- Day 4 – VPC + Subnets + Routing
+- Day 5 – Route 53 + ELB
+- Day 6 – RDS (Databases)
+- Day 7 – Lambda + S3 Trigger
+- Day 8 – CloudFormation + AWS Support Tools
+- Day 9 – Troubleshooting & Security
+- Day 10 – Review & Mock Interview
+
 ## 🚀 Usage
 
 This repository is mainly for personal use. It's a compilation of notes, exercises, and useful commands to help me in my AWS learning process. 
